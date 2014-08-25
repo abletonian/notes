@@ -1,3 +1,2 @@
 #newpage
-
-#[index](index.md)
+[to the index](index.html)
